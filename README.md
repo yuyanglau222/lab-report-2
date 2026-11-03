@@ -110,11 +110,3 @@ streamlit>=1.30.0
 numpy>=1.24.0
 matplotlib>=3.8.0
 ```
-
----
-
-## 👤 Author Information
-
-* **Course:** BSD3513 / BSD2513 Introduction to Artificial Intelligence
-* **Faculty:** Centre for Mathematical Sciences (Pusat Sains Matematik), UMPSA
-* **Topic:** Chapter 2 — Search Algorithms (Genetic Algorithms)

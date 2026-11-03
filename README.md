@@ -12,10 +12,9 @@ The application demonstrates heuristic search by evolving an initial population 
 
 ---
 
-### 🌐 Live Deployment & Repository Links
+### 🌐 Live Deployment Links
 
-* **Live Streamlit Web App:** `[Insert your Streamlit App URL here, e.g., https://your-app-name.streamlit.app]`
-* **GitHub Repository:** `[Insert your GitHub Repo URL here, e.g., https://github.com/your-username/your-repo-name]`
+* **Live Streamlit Web App:** `https://lab-report-2-ai5ynrrq6u6p4tfva7oi7y.streamlit.app/`
 
 ---
 
